@@ -1,0 +1,3 @@
+#Mantra
+
+Nepali Spell checker.
